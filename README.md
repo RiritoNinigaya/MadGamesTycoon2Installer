@@ -1,0 +1,2 @@
+# MadGamesTycoon2Installer
+MadGamesTycoon2Installer by RiritoNinigaya
